@@ -4,16 +4,16 @@
 
 - 🔭 I'm currently working on **a dungeon crawler called 'Ruins of Karzodun'.**
 
-- 🌱 I'm currently learning **Game architecture patterns, AI behavior systems, and performance optimization in Unity
+- 🌱 I'm currently learning **Game architecture patterns, AI behavior systems, and performance optimization in Unity**
 **
 
-- 👯 I'm looking to collaborate on **Unity game projects, gameplay systems, AI-driven mechanics, or game jam projects
+- 👯 I'm looking to collaborate on **Unity game projects, gameplay systems, AI-driven mechanics, or game jam projects**
 **
 
-- 🤝 I'm looking for help with **Improving large-scale game system design and performance optimization
+- 🤝 I'm looking for help with **Improving large-scale game system design and performance optimization**
 **
 
-- 💬 Ask me about **Game mechanics, AI behavior systems, and interactive design
+- 💬 Ask me about **Game mechanics, AI behavior systems, and interactive design**
 **
 
 - 📫 How to reach me **marcbisgaard@switty.dk**
